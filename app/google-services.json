@@ -1,0 +1,246 @@
+{
+  "project_info": {
+    "project_number": "983834975802",
+    "firebase_url": "https://fire-base-f26ff-default-rtdb.firebaseio.com",
+    "project_id": "fire-base-f26ff",
+    "storage_bucket": "fire-base-f26ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983834975802:android:0193cec6311598ef931f03",
+        "android_client_info": {
+          "package_name": "digi.tech.fire_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXIOWpVUDZwGwv6_sZ2-FQ7howCiTks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983834975802:android:ab77ff5c64220035931f03",
+        "android_client_info": {
+          "package_name": "digi.tech.generate_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXIOWpVUDZwGwv6_sZ2-FQ7howCiTks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983834975802:android:db308a6715a31dba931f03",
+        "android_client_info": {
+          "package_name": "digi.tech.genreate_otp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983834975802-7emu4d9vekp8lqa5onni30e9ctr0d59j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digi.tech.genreate_otp_app",
+            "certificate_hash": "68226b2c7166527f3bcc28255b3f2fe45c811704"
+          }
+        },
+        {
+          "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXIOWpVUDZwGwv6_sZ2-FQ7howCiTks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983834975802:android:39a81f137b553c82931f03",
+        "android_client_info": {
+          "package_name": "digi.tech.gmaillogin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXIOWpVUDZwGwv6_sZ2-FQ7howCiTks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983834975802:android:6550025d4602ee78931f03",
+        "android_client_info": {
+          "package_name": "digi.tech.imagework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983834975802-dj6k16sarl576k8n321a9vhgi9qtr4ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digi.tech.imagework",
+            "certificate_hash": "68226b2c7166527f3bcc28255b3f2fe45c811704"
+          }
+        },
+        {
+          "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXIOWpVUDZwGwv6_sZ2-FQ7howCiTks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983834975802:android:60a8fc5d562ddb7a931f03",
+        "android_client_info": {
+          "package_name": "digi.tech.upload_imageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983834975802-7ahe17fei1qaoq7i2l405ed8f47cq2q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digi.tech.upload_imageapp",
+            "certificate_hash": "68226b2c7166527f3bcc28255b3f2fe45c811704"
+          }
+        },
+        {
+          "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXIOWpVUDZwGwv6_sZ2-FQ7howCiTks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983834975802:android:cd310b444fb26a2a931f03",
+        "android_client_info": {
+          "package_name": "digi.tech.verifiy_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983834975802-qiun198c1o6k4utedc9pddmv8fc72cq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digi.tech.verifiy_otp",
+            "certificate_hash": "68226b2c7166527f3bcc28255b3f2fe45c811704"
+          }
+        },
+        {
+          "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXIOWpVUDZwGwv6_sZ2-FQ7howCiTks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983834975802-5bjap8drk5pr8flld6dhdp52oecc4ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
